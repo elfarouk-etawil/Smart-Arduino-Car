@@ -13,6 +13,5 @@ Team consists of 9 members:
 - Banan Ahmed
 - Mazen Abdelazeam
 - Fares Osama
-- 
 ## Idea
 Smart Car that supports diffrent features as obesticle avoiding, IR control and Line following
